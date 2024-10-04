@@ -1,3 +1,9 @@
+
+![image](https://github.com/nitin0557/dashboard-frontend/blob/main/assets/p1.jpg)
+![image](https://github.com/nitin0557/dashboard-frontend/blob/main/assets/p2.jpg)
+![image](https://github.com/nitin0557/dashboard-frontend/blob/main/assets/p3.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
